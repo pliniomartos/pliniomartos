@@ -5,7 +5,7 @@ Passionate about building scalable backend systems and clean, maintainable appli
 🚀 About Me<br/>
 I'm a software developer with a strong interest in backend development and web applications. I enjoy solving complex problems, optimizing performance, and writing clean, scalable code. My background includes software development studies and hands-on experience in real-world projects.<br/>
 
-🔹 Looking for opportunities in backend, software & web development<br/>
+🔹 Looking for opportunities in software & web development<br/>
 🔹 Open to collaborations, freelance work, and mentoring<br/>
 🔹 Passionate about building efficient and scalable software<br/>
 
